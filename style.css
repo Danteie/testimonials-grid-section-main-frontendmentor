@@ -34,7 +34,7 @@ h1{
 body{
     font-size: 13px;
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-color: var(--light-gray);
+    background-color: var(--light-grayish-blue);
 }
 
 main{
@@ -106,10 +106,6 @@ main{
     height: 2em;
     border: 2px solid white;
     margin-right: 0.8em;
-}
-
-.ring{
-    border-color: var(--moderate-violet);
 }
 
 .name{
